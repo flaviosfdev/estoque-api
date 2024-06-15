@@ -1,15 +1,16 @@
 {
     "products": [
         {
-            "name": "Caneca porcelana 325 ml",
-            "price":"3600"
+            "name":"Caneca porcelana 325 ml",
+            "price":"3600",
+            "imageUrl":"https://ibb.co/zNMKnLZ"
         },
         {
-            "name": "Copo Long Drink 290 ml",
+            "name":"Copo Long Drink 290 ml",
             "price":"259"
         },
         {
-            "name": "Tampa Copo Long Drink 290 ml",
+            "name":"Tampa Copo Long Drink 290 ml",
             "price":"50"
         }
     ]
