@@ -1,0 +1,12 @@
+{
+    "products": [
+        {
+            "name": "Caneca porcelana 325 ml",
+            "price":"3600"
+        },
+        {
+            "name": "Copo Long Drink 290 ml",
+            "price":"259"
+        }
+    ]
+}
