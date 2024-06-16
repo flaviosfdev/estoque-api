@@ -38,27 +38,27 @@
             "prices": [
                 {
                     "minimum": 1,
-                    "prices": 259
+                    "price": 259
                 },
                 {
                     "minimum": 5,
-                    "prices": 249
+                    "price": 249
                 },
                 {
                     "minimum": 10,
-                    "prices": 239
+                    "price": 239
                 },
                 {
                     "minimum": 20,
-                    "prices": 229
+                    "price": 229
                 },
                 {
                     "minimum": 50,
-                    "prices": 209
+                    "price": 209
                 },
                 {
                     "minimum": 100,
-                    "prices": 199
+                    "price": 199
                 }
             ],
             "inventory": [
