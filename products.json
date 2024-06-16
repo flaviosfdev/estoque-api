@@ -67,8 +67,24 @@
                     "quantity": 100
                 },
                 {
+                    "color": "Vermelho",
+                    "quantity": 35
+                },
+                {
                     "color": "Preto",
-                    "quantity": 25
+                    "quantity": 50
+                },
+                {
+                    "color": "Rosa BB",
+                    "quantity": 80
+                },
+                {
+                    "color": "Azul BB",
+                    "quantity": 35
+                },
+                {
+                    "color": "Cristal",
+                    "quantity": 80
                 }
             ]
         },
