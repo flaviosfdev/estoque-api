@@ -2,41 +2,23 @@
     "products": [
         {
             "name": "Caneca porcelana",
-            "imageUrl": "https://i.ibb.co/JC1XBbH/caneca-personalizada-96x150mm-porcelana-sublimacao-branca-194-1614455356721334005603aa23ce433a.jpg",
-            "cor": "Branco",
+            "imageUrl": "https://i.ibb.co/DkTHgz6/caneca-porcelana.png",
             "price": {
                 "quantity": [1, 5, 10],
                 "prices": [3000, 2700, 2400]
+            },
+            "inventory": {
+                "color": ["Branco", "Vermelho", "Preto"],
+                "quantity": [100, 35, 50]
             }
         },
         {
             "name": "Copo Long Drink",
-            "imageUrl": "https://i.ibb.co/JC1XBbH/caneca-personalizada-96x150mm-porcelana-sublimacao-branca-194-1614455356721334005603aa23ce433a.jpg",
-            "cor": "Branco",
+            "imageUrl": "https://i.ibb.co/Y8PRRjN/copo-long-drink.jpg",
             "price": {
                 "quantity": [1, 5, 10, 20, 50, 100],
                 "prices": [259, 249, 239, 229, 209, 199]
             }
-        },
-        {
-            "name": "Tampa Copo Long Drink"
-        },
-        {
-            "name": "Caneca porcelana",
-            "imageUrl": "https://i.ibb.co/JC1XBbH/caneca-personalizada-96x150mm-porcelana-sublimacao-branca-194-1614455356721334005603aa23ce433a.jpg"
-        },
-        {
-            "name": "Copo Long Drink"
-        },
-        {
-            "name": "Tampa Copo Long Drink"
-        },
-        {
-            "name": "Caneca porcelana",
-            "imageUrl": "https://i.ibb.co/JC1XBbH/caneca-personalizada-96x150mm-porcelana-sublimacao-branca-194-1614455356721334005603aa23ce433a.jpg"
-        },
-        {
-            "name": "Copo Long Drink"
         },
         {
             "name": "Tampa Copo Long Drink"
