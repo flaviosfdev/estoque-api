@@ -3,22 +3,74 @@
         {
             "name": "Caneca porcelana",
             "imageUrl": "https://i.ibb.co/DkTHgz6/caneca-porcelana.png",
-            "price": {
-                "quantity": [1, 5, 10],
-                "prices": [3000, 2700, 2400]
-            },
-            "inventory": {
-                "color": ["Branco", "Vermelho", "Preto"],
-                "quantity": [100, 35, 50]
-            }
+            "prices": [
+                {
+                    "quantity": 1,
+                    "price": 3000
+                },
+                {
+                    "quantity": 5,
+                    "price": 2700
+                },
+                {
+                    "quantity": 10,
+                    "price": 2400
+                }
+            ],
+            "inventory": [
+                {
+                    "color": "Branco",
+                    "quantity": 100
+                },
+                {
+                    "color": "Vermelho",
+                    "quantity": 35
+                },
+                {
+                    "color": "Preto",
+                    "quantity": 50
+                }
+            ]
         },
         {
             "name": "Copo Long Drink",
             "imageUrl": "https://i.ibb.co/Y8PRRjN/copo-long-drink.jpg",
-            "price": {
-                "quantity": [1, 5, 10, 20, 50, 100],
-                "prices": [259, 249, 239, 229, 209, 199]
-            }
+            "price": [
+                {
+                    "quantity": 1,
+                    "prices": 259
+                },
+                {
+                    "quantity": 5,
+                    "prices": 249
+                },
+                {
+                    "quantity": 10,
+                    "prices": 239
+                },
+                {
+                    "quantity": 20,
+                    "prices": 229
+                },
+                {
+                    "quantity": 50,
+                    "prices": 209
+                },
+                {
+                    "quantity": 100,
+                    "prices": 199
+                }
+            ],
+            "inventory": [
+                {
+                    "color": "Branco",
+                    "quantity": 100
+                },
+                {
+                    "color": "Preto",
+                    "quantity": 25
+                }
+            ]
         },
         {
             "name": "Tampa Copo Long Drink"
